@@ -2,4 +2,4 @@
 
 FastAPI python project coming soon
 
-I love ☕
+I love  ☕  and  ♟️
